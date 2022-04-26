@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pa28
 - 👀 I’m interested in Amature Radio, Astronomy, Aviation, Photography, and Science
-- 🌱 I’m currently learning C++20
+- 🌱 I’m currently learning C++20 and Python
 - 📫 How to reach me Twitter @pa28
 
 <!---
